@@ -30,7 +30,7 @@ footer{
 h1{
   text-align: center;
 	margin: 50px 0 0 100px;
-	color: rgb(210,180,140);
+	color: rgb(210,180,140); /*try different color that pops more against the background try http://www.w3schools.com/colors/colors_picker.asp or http://www.w3schools.com/colors/colors_picker.asp*/
 	border-left: 3px solid white;
 	border-top: 3px solid white;
 	border-top-left-radius: 10px;
@@ -41,7 +41,7 @@ nav:nth-child(2){
   margin: -100px 30px 50px -10px;
   text-align: center;
   height:800px;
-  position: fixed;
+  position: fixed;/*try making it so that it is fixed more in the middle of the page*/
   background-color: rgba(255, 0, 0, 0.25);
 }
 
